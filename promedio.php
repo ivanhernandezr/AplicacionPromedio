@@ -7,7 +7,7 @@
 </head>
 <body>
 <header>
-<h2 id="centrado">Promedio de notas</h2>
+<h2 id="centrado">Promedio De Notas</h2>
 <img src="bannerEstudiantes.jpg" width="660" height="200"/>
 <br>
 </header>
